@@ -1,7 +1,7 @@
 # Codigos Apredidos em Aula
 
-Codigos utilizados na Aula de Logica de Programação
+- Codigos utilizados na Aula de Logica de Programação
 
-linguagem em C
+- linguagem em C
 
-primeiro semestre de Engenharia de Software
+- primeiro semestre de Engenharia de Software
