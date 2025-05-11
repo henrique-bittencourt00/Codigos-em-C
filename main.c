@@ -7,7 +7,7 @@ int main () {
 
     // coleta da temperatura
     for (int i = 0; i < 8; i++) {
-        printf("Digite a temperatura registrada as %s: ", horas [i]);
+        printf("Digite as temperaturas registradas as %s: ", horas [i]);
         scanf ("%f", &temperatura[i]);
         soma += temperatura[i];
     }
